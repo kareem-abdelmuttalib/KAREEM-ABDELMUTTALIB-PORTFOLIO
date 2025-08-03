@@ -58,7 +58,7 @@ export default function Hero() {
               Available for Freelance Work
             </span>
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold leading-tight text-text-primary">
-              Hi, I&apos;m 
+              Hi, I&apos;m  
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary-foreground">
                 Kareem Abdelmuttalib
               </span>
